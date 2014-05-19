@@ -2,4 +2,9 @@
 2 text
 3
 44
+<<<<<<< HEAD
 ee master
+=======
+ee
+2brbrbr 2 2 2
+>>>>>>> 2br
